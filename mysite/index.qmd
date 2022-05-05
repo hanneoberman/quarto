@@ -1,0 +1,5 @@
+---
+title: "Hi, I'm Hanne!"
+---
+
+A statistician interested in data visualization, interdisciplinarity, and open science. <https://quarto.org/docs/websites>.
